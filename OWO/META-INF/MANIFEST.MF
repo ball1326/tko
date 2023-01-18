@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OWO
+Bundle-SymbolicName: OWO
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: OWO
+Bundle-RequiredExecutionEnvironment: JavaSE-17
